@@ -71,7 +71,7 @@ The system is built using three coordinated AI agents:
 1. Clone the repository:
    ```bash
    git clone https://github.com/sujal-kadam/Resume-Ai-Agent
-   streamlit run app.py
+   .\.venv\Scripts\python.exe -m streamlit run app.py
 
 ---
 
